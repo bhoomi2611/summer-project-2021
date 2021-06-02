@@ -1,1 +1,4 @@
-
+Q1 --> one bit adder giving a sum and its carry
+Q2 --> eight bit adder created using 8 one bit adders
+Q3 --> one bit comparator
+Q4 --> eight bit comparator using 8 one bit comparators
